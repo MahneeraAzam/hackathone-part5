@@ -162,11 +162,9 @@ header img{
 
     .btnDiv{
         width: 90%;
+        row-gap: 10px;
     }
-    /* .content h2{
-        color: black;
-    } */
-
+    
     aside, .main-content{
      width: 100%;
     }
